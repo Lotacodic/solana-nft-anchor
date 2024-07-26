@@ -4,6 +4,7 @@ Based on the [Mint Your First NFT](https://calyptus.co/lessons/mint-your-first-n
 
 ## Table of Contents
 - [Getting Started](#getting-started)
+- [My NFT MINT](#my-nft-mint)
 - [Contributing](#contributing)
 - [Questions](#questions)
 - [License](#license)
@@ -63,6 +64,11 @@ declare_id!("<UPDATE HERE>");
 pub mod solana_nft_anchor {
     // snip
 ```
+
+## My NFT Mint
+- solana_nft_anchor: BvvuxJJQq3e3PkDBynSYBUnNXgqCeK3wmC8XToSnNvFo
+- mint nft tx: https://explorer.solana.com/tx/2QqHVr4K7avyznxBX9kfmQ7Q151Ksh2e8EcE2YbaMuDyywWTP4sn9Uhj6bwt1uC4KbiDKHShGzS3uBKzSAwXEJ6R?cluster=devnet
+- minted nft: https://explorer.solana.com/address/9F2NTE3Ldu1c5grzw9QygQaWMwm4ra579sd3auzJJRw2?cluster=devnet
 
 ## Contributing
 
